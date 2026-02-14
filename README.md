@@ -33,6 +33,10 @@ Contient l'ensemble des fonctions décrites dans Etat_de_l_art.ipynb condensées
 
 Contient également un fichier fonctions_utiles.py pour lancer le programme à l'échelle nationale dans National.py, un fichier storage.py qui gère la gestion du stockage des communes et un dossier Storage_results où sont stockés les résultats par commune pour toute la France.
 Le notebook Analyse_Globale.ipynb présente une analyse statistique des résultats à l'échelle nationale.
+Le dossier Storage_results contient les résultats avec 
+ - results.ipynb permet de lire les résultats de la commune de votre choix
+ - fonctions_utiles.py
+ - depart_XX : avec meta.json : résumé des résultats, small_communes.csv : petits réseaux et leurs caractéristiques, rejected_communes.csv : communes rejetées et leurs caractéristiques, selected_communes.csv : communes sélectionnées et leurs caractéristiques. Communes et Small_networks contiennent respectivement les résultats des grands et petits réseaux au format pkl (à lire avec results.py)
 
 ### Evolution_Modeles
 
