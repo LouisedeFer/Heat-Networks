@@ -1,9 +1,9 @@
 # Indications préliminaires 
 
 - Pour avoir un aperçu des résultats à l'échelle nationale : National_Scale/Analyse_globale.
-- Pour tracer le réseau de chaleur d'une commune d'un département : Local_Scale/Etat_de_l_art_chaleur.ipynb 
+- Pour tracer le réseau de chaleur d'une commune d'un département : Local_Scale/State_of_the_art.ipynb 
 
-Base de données disponibles sur GitHub : département 60
+Base de données disponibles sur GitHub : tout ce qui concerne le département 60
 
 # Structure générale du code 
 
@@ -23,11 +23,11 @@ Contient les bases de données nécessaires au traitement des communes à toutes
 
 ### Local_Scale
 
-Contient le programme le plus important dans le notebook Etat_de_l_art.ipynb, permet de tracer le réseau de chaleur de n'importe quelle commune de n'importe quel département, de jouer sur les hypothèses, de comparer éventuellement avec le réseau réel s'il existe...
+Contient le programme le plus important dans le notebook State_of_the_art.ipynb, permet de tracer le réseau de chaleur de n'importe quelle commune de n'importe quel département, de jouer sur les hypothèses, de comparer éventuellement avec le réseau réel s'il existe...
 
 ### Departemental_Scale 
 
-Contient l'ensemble des fonctions décrites dans Etat_de_l_art.ipynb condensées dans le fichier fonctions_utiles.ipynb afin d'avoir un notebook court et clair lorsque l'on veut lancer l'étude à l'échelle du département dans Departement.ipynb
+Contient l'ensemble des fonctions décrites dans State_of_the_art.ipynb condensées dans le fichier fonctions_utiles.ipynb afin d'avoir un notebook court et clair lorsque l'on veut lancer l'étude à l'échelle du département dans Departement.ipynb
 
 ### National_Scale
 
@@ -44,6 +44,6 @@ Lien_conso_reseau.ipynb a servi pour l'étude de quel bâtiment prendre pour con
 conso_plant contient des images des performances des réseaux construits par communes en partant de tous les bâtiments possibles
 
 
-Le fichier preparation_fichier.ipynb contient le code permettant de préparer les bases de données de référence pour utiliser dans Etat_de_l_art.ipynb
+Le fichier preparation_fichier.ipynb contient le code permettant de préparer les bases de données de référence pour utiliser dans State_of_the_art.ipynb
 
 
