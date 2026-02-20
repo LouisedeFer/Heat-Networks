@@ -3,7 +3,7 @@
 - Pour avoir un aperçu des résultats à l'échelle nationale : National_Scale/Analyse_globale.
 - Pour tracer le réseau de chaleur d'une commune d'un département : Local_Scale/State_of_the_art.ipynb 
 
-Base de données disponibles sur GitHub : tout ce qui concerne le département 60
+Base de données disponibles sur GitHub : tout ce qui concerne le département 01, 06 et 60
 
 # Structure générale du code 
 
