@@ -1,0 +1,246 @@
+departement,commune,stade,reason,nb_buildings,nb_buildings_total
+01,01001,2,Stade 2 : 4 bâtiments,4,4
+01,01002,2,Stade 2 : 2 bâtiments,2,2
+01,01006,2,Stade 2 : 1 bâtiments,1,1
+01,01007,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,24
+01,01008,2,Stade 2 : 6 bâtiments,6,6
+01,01009,2,Stade 2 : 1 bâtiments,1,1
+01,01010,2,Stade 2 : 4 bâtiments,4,4
+01,01013,2,Stade 2 : 0 bâtiments,0,0
+01,01015,2,Stade 2 : 6 bâtiments,6,6
+01,01016,2,Stade 2 : 6 bâtiments,6,6
+01,01017,2,Stade 2 : 2 bâtiments,2,2
+01,01019,2,Stade 2 : 0 bâtiments,0,0
+01,01023,2,Stade 2 : 0 bâtiments,0,0
+01,01026,2,Stade 2 : 6 bâtiments,6,6
+01,01028,2,Stade 2 : 4 bâtiments,4,4
+01,01032,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,26
+01,01037,2,Stade 2 : 6 bâtiments,6,6
+01,01038,2,Stade 2 : 8 bâtiments,8,8
+01,01039,2,Stade 2 : 7 bâtiments,7,7
+01,01040,2,Stade 2 : 2 bâtiments,2,2
+01,01041,2,Stade 2 : 2 bâtiments,2,2
+01,01042,2,Stade 2 : 2 bâtiments,2,2
+01,01044,2,Stade 2 : 8 bâtiments,8,8
+01,01045,2,Stade 2 : 4 bâtiments,4,4
+01,01050,2,Stade 2 : 6 bâtiments,6,6
+01,01051,2,Stade 2 : 2 bâtiments,2,2
+01,01052,2,Stade 2 : 7 bâtiments,7,7
+01,01054,2,Stade 2 : 6 bâtiments,6,6
+01,01056,2,Stade 2 : 7 bâtiments,7,7
+01,01057,2,Stade 2 : 2 bâtiments,2,2
+01,01058,2,Stade 2 : 7 bâtiments,7,7
+01,01061,2,Stade 2 : 2 bâtiments,2,2
+01,01062,2,Stade 2 : 5 bâtiments,5,5
+01,01063,2,Stade 2 : 5 bâtiments,5,5
+01,01064,2,Stade 2 : 7 bâtiments,7,7
+01,01065,2,Stade 2 : 8 bâtiments,8,8
+01,01066,2,Stade 2 : 2 bâtiments,2,2
+01,01067,2,Stade 2 : 5 bâtiments,5,5
+01,01068,2,Stade 2 : 6 bâtiments,6,6
+01,01069,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,12
+01,01073,2,Stade 2 : 6 bâtiments,6,6
+01,01075,2,Stade 2 : 8 bâtiments,8,8
+01,01076,2,Stade 2 : 0 bâtiments,0,0
+01,01077,2,Stade 2 : 5 bâtiments,5,5
+01,01080,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,32
+01,01083,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,15
+01,01084,2,Stade 2 : 4 bâtiments,4,4
+01,01085,2,Stade 2 : 5 bâtiments,5,5
+01,01088,2,Stade 2 : 3 bâtiments,3,3
+01,01090,2,Stade 2 : 9 bâtiments,9,9
+01,01094,2,Stade 2 : 8 bâtiments,8,8
+01,01095,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,11
+01,01096,2,Stade 2 : 5 bâtiments,5,5
+01,01099,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,12
+01,01100,2,Stade 2 : 3 bâtiments,3,3
+01,01101,2,Stade 2 : 5 bâtiments,5,5
+01,01102,2,Stade 2 : 7 bâtiments,7,7
+01,01106,2,Stade 2 : 0 bâtiments,0,0
+01,01107,2,Stade 2 : 0 bâtiments,0,0
+01,01110,2,Stade 2 : 1 bâtiments,1,1
+01,01111,2,Stade 2 : 2 bâtiments,2,2
+01,01112,2,Stade 2 : 3 bâtiments,3,3
+01,01113,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,14
+01,01114,2,Stade 2 : 6 bâtiments,6,6
+01,01116,2,Stade 2 : 5 bâtiments,5,5
+01,01117,2,Stade 2 : 1 bâtiments,1,1
+01,01121,2,Stade 2 : 2 bâtiments,2,2
+01,01124,2,Stade 2 : 4 bâtiments,4,4
+01,01125,2,Stade 2 : 8 bâtiments,8,8
+01,01127,2,Stade 2 : 6 bâtiments,6,6
+01,01128,2,Stade 2 : 3 bâtiments,3,3
+01,01129,2,Stade 2 : 3 bâtiments,3,3
+01,01130,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,21
+01,01133,2,Stade 2 : 1 bâtiments,1,1
+01,01136,2,Stade 2 : 9 bâtiments,9,9
+01,01139,2,Stade 2 : 1 bâtiments,1,1
+01,01140,2,Stade 2 : 8 bâtiments,8,8
+01,01141,2,Stade 2 : 3 bâtiments,3,3
+01,01145,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,17
+01,01146,2,Stade 2 : 2 bâtiments,2,2
+01,01147,2,Stade 2 : 3 bâtiments,3,3
+01,01149,2,Stade 2 : 1 bâtiments,1,1
+01,01150,2,Stade 2 : 1 bâtiments,1,1
+01,01151,2,Stade 2 : 3 bâtiments,3,3
+01,01153,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,24
+01,01155,2,Stade 2 : 3 bâtiments,3,3
+01,01156,2,Stade 2 : 3 bâtiments,3,3
+01,01157,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,16
+01,01158,2,Stade 2 : 5 bâtiments,5,5
+01,01162,2,Stade 2 : 3 bâtiments,3,3
+01,01167,2,Stade 2 : 1 bâtiments,1,1
+01,01169,2,Stade 2 : 3 bâtiments,3,3
+01,01170,2,Stade 2 : 6 bâtiments,6,6
+01,01171,2,Stade 2 : 3 bâtiments,3,3
+01,01175,2,Stade 2 : 4 bâtiments,4,4
+01,01177,2,Stade 2 : 2 bâtiments,2,2
+01,01179,2,Stade 2 : 9 bâtiments,9,9
+01,01183,2,Stade 2 : 9 bâtiments,9,9
+01,01184,2,Stade 2 : 6 bâtiments,6,6
+01,01188,2,Stade 2 : 6 bâtiments,6,6
+01,01189,2,Stade 2 : 9 bâtiments,9,9
+01,01190,2,Stade 2 : 3 bâtiments,3,3
+01,01191,2,Stade 2 : 9 bâtiments,9,9
+01,01193,2,Stade 2 : 3 bâtiments,3,3
+01,01197,2,Stade 2 : 1 bâtiments,1,1
+01,01198,2,Stade 2 : 8 bâtiments,8,8
+01,01200,2,Stade 2 : 2 bâtiments,2,2
+01,01203,2,Stade 2 : 5 bâtiments,5,5
+01,01204,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,12
+01,01206,2,Stade 2 : 6 bâtiments,6,6
+01,01207,2,Stade 2 : 7 bâtiments,7,7
+01,01208,2,Stade 2 : 1 bâtiments,1,1
+01,01209,2,Stade 2 : 5 bâtiments,5,5
+01,01212,2,Stade 2 : 8 bâtiments,8,8
+01,01213,2,Stade 2 : 7 bâtiments,7,7
+01,01214,2,Stade 2 : 2 bâtiments,2,2
+01,01215,2,Stade 2 : 1 bâtiments,1,1
+01,01216,2,Stade 2 : 9 bâtiments,9,9
+01,01219,2,Stade 2 : 2 bâtiments,2,2
+01,01225,2,Stade 2 : 2 bâtiments,2,2
+01,01227,2,Stade 2 : 4 bâtiments,4,4
+01,01228,2,Stade 2 : 9 bâtiments,9,9
+01,01230,2,Stade 2 : 2 bâtiments,2,2
+01,01231,2,Stade 2 : 7 bâtiments,7,7
+01,01233,2,Stade 2 : 3 bâtiments,3,3
+01,01234,2,Stade 2 : 0 bâtiments,0,0
+01,01236,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,13
+01,01239,2,Stade 2 : 2 bâtiments,2,2
+01,01240,2,Stade 2 : 4 bâtiments,4,4
+01,01242,2,Stade 2 : 0 bâtiments,0,0
+01,01243,2,Stade 2 : 3 bâtiments,3,3
+01,01245,2,Stade 2 : 7 bâtiments,7,7
+01,01252,2,Stade 2 : 8 bâtiments,8,8
+01,01254,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,16
+01,01255,2,Stade 2 : 1 bâtiments,1,1
+01,01257,2,Stade 2 : 1 bâtiments,1,1
+01,01258,2,Stade 2 : 9 bâtiments,9,9
+01,01259,2,Stade 2 : 6 bâtiments,6,6
+01,01260,2,Stade 2 : 8 bâtiments,8,8
+01,01261,2,Stade 2 : 7 bâtiments,7,7
+01,01264,2,Stade 2 : 7 bâtiments,7,7
+01,01268,2,Stade 2 : 2 bâtiments,2,2
+01,01274,2,Stade 2 : 6 bâtiments,6,6
+01,01277,2,Stade 2 : 0 bâtiments,0,0
+01,01279,2,Stade 2 : 1 bâtiments,1,1
+01,01280,2,Stade 2 : 1 bâtiments,1,1
+01,01282,2,Stade 2 : 5 bâtiments,5,5
+01,01284,2,Stade 2 : 3 bâtiments,3,3
+01,01285,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,10
+01,01286,2,Stade 2 : 4 bâtiments,4,4
+01,01291,2,Stade 2 : 4 bâtiments,4,4
+01,01293,2,Stade 2 : 0 bâtiments,0,0
+01,01296,2,Stade 2 : 9 bâtiments,9,9
+01,01297,2,Stade 2 : 1 bâtiments,1,1
+01,01298,2,Stade 2 : 1 bâtiments,1,1
+01,01299,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,10
+01,01302,2,Stade 2 : 3 bâtiments,3,3
+01,01308,2,Stade 2 : 8 bâtiments,8,8
+01,01309,2,Stade 2 : 0 bâtiments,0,0
+01,01311,2,Stade 2 : 1 bâtiments,1,1
+01,01314,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,11
+01,01317,2,Stade 2 : 1 bâtiments,1,1
+01,01318,2,Stade 2 : 6 bâtiments,6,6
+01,01319,2,Stade 2 : 3 bâtiments,3,3
+01,01321,2,Stade 2 : 6 bâtiments,6,6
+01,01323,2,Stade 2 : 4 bâtiments,4,4
+01,01325,2,Stade 2 : 8 bâtiments,8,8
+01,01329,2,Stade 2 : 1 bâtiments,1,1
+01,01330,2,Stade 2 : 7 bâtiments,7,7
+01,01331,2,Stade 2 : 7 bâtiments,7,7
+01,01332,2,Stade 2 : 2 bâtiments,2,2
+01,01334,2,Stade 2 : 6 bâtiments,6,6
+01,01335,2,Stade 2 : 2 bâtiments,2,2
+01,01336,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,10
+01,01338,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,19
+01,01339,2,Stade 2 : 3 bâtiments,3,3
+01,01343,2,Stade 2 : 8 bâtiments,8,8
+01,01345,2,Stade 2 : 9 bâtiments,9,9
+01,01346,2,Stade 2 : 9 bâtiments,9,9
+01,01347,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,15
+01,01349,2,Stade 2 : 4 bâtiments,4,4
+01,01351,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,29
+01,01352,2,Stade 2 : 5 bâtiments,5,5
+01,01353,2,Stade 2 : 7 bâtiments,7,7
+01,01355,2,Stade 2 : 5 bâtiments,5,5
+01,01356,2,Stade 2 : 2 bâtiments,2,2
+01,01358,2,Stade 2 : 2 bâtiments,2,2
+01,01359,2,Stade 2 : 8 bâtiments,8,8
+01,01360,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,26
+01,01361,2,Stade 2 : 2 bâtiments,2,2
+01,01362,2,Stade 2 : 8 bâtiments,8,8
+01,01364,2,Stade 2 : 9 bâtiments,9,9
+01,01365,2,Stade 2 : 6 bâtiments,6,6
+01,01366,2,Stade 2 : 6 bâtiments,6,6
+01,01367,2,Stade 2 : 3 bâtiments,3,3
+01,01368,2,Stade 2 : 5 bâtiments,5,5
+01,01369,2,Stade 2 : 9 bâtiments,9,9
+01,01371,2,Stade 2 : 6 bâtiments,6,6
+01,01372,2,Stade 2 : 7 bâtiments,7,7
+01,01374,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,16
+01,01375,2,Stade 2 : 7 bâtiments,7,7
+01,01378,2,Stade 2 : 8 bâtiments,8,8
+01,01379,2,Stade 2 : 8 bâtiments,8,8
+01,01381,2,Stade 2 : 3 bâtiments,3,3
+01,01382,2,Stade 2 : 2 bâtiments,2,2
+01,01383,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,19
+01,01385,2,Stade 2 : 5 bâtiments,5,5
+01,01386,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,10
+01,01387,2,Stade 2 : 2 bâtiments,2,2
+01,01391,2,Stade 2 : 3 bâtiments,3,3
+01,01392,2,Stade 2 : 1 bâtiments,1,1
+01,01393,2,Stade 2 : 7 bâtiments,7,7
+01,01396,2,Stade 2 : 5 bâtiments,5,5
+01,01400,2,Stade 2 : 0 bâtiments,0,0
+01,01401,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,18
+01,01402,2,Stade 2 : 4 bâtiments,4,4
+01,01404,2,Stade 2 : 2 bâtiments,2,2
+01,01406,2,Stade 2 : 3 bâtiments,3,3
+01,01408,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,10
+01,01410,2,Stade 2 : 0 bâtiments,0,0
+01,01411,2,Stade 2 : 8 bâtiments,8,8
+01,01412,2,Stade 2 : 2 bâtiments,2,2
+01,01415,2,Stade 2 : 9 bâtiments,9,9
+01,01418,2,Stade 2 : 5 bâtiments,5,5
+01,01421,2,Stade 2 : 4 bâtiments,4,4
+01,01422,2,Stade 2 : 8 bâtiments,8,8
+01,01423,2,Stade 2 : 3 bâtiments,3,3
+01,01424,2,Stade 2 : 9 bâtiments,9,9
+01,01425,2,Stade 2 : 1 bâtiments,1,1
+01,01428,2,Stade 2 : 3 bâtiments,3,3
+01,01429,2,Stade 2 : 1 bâtiments,1,1
+01,01430,2,Stade 2 : 1 bâtiments,1,1
+01,01431,2,Stade 2 : 3 bâtiments,3,3
+01,01432,2,Stade 2 : 3 bâtiments,3,3
+01,01433,2,Stade 2 : 9 bâtiments,9,9
+01,01434,2,Stade 2 : 7 bâtiments,7,7
+01,01436,2,Stade 2 : 6 bâtiments,6,6
+01,01437,2,Stade 2 : 1 bâtiments,1,1
+01,01439,2,Stade 2 : 0 bâtiments,0,0
+01,01444,2,Stade 2 : 4 bâtiments,4,4
+01,01445,2,Stade 2 : 7 bâtiments,7,7
+01,01446,3,Stade 3: 1 bâtiment connecté avec meilleur idx_plant 0,1,10
+01,01448,2,Stade 2 : 3 bâtiments,3,3
+01,01454,2,Stade 2 : 8 bâtiments,8,8
+01,01456,2,Stade 2 : 2 bâtiments,2,2
