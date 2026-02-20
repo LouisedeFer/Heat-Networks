@@ -1,7 +1,9 @@
 # Indications préliminaires 
 
 - Pour avoir un aperçu des résultats à l'échelle nationale : National_Scale/Analyse_globale.
-- Pour tracer le réseau de chaleur d'une commune d'un département : Local_Scale/State_of_the_art.ipynb 
+- Pour tracer le réseau de chaleur d'une commune d'un département : Local_Scale/State_of_the_art.ipynb
+- Article de recherche : Heating_Networks.pdf
+- Presentation PowerPoint : Presentation_Finale.pdf
 
 Base de données disponibles sur GitHub : tout ce qui concerne le département 01, 06 et 60
 
